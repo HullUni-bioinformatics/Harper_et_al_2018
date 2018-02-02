@@ -11,7 +11,7 @@ Abiotic and biotic determinants of great crested newt at the pondscape using env
 
 ## Contents
 
-Reference sequences (curated reference databases) used in analyses in Genbank format (here)
+Notebooks to create curated reference databases used in analyses (databases also available in Genbank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
 
 SRA accession numbers for raw Illumina data (here)
 
