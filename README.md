@@ -15,7 +15,7 @@ Notebooks to create curated reference databases used in analyses (databases also
 
 SRA accession numbers for raw Illumina data (here)
 
-Taxonomic assignment results (here)
+Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data)
 
 R scripts used to analyse metaBEAT output and produce figures (here)
 
