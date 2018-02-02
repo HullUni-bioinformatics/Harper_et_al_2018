@@ -1,12 +1,12 @@
 # Harper_et_al_2018
 
-Data processing workflow and supplementary data for Harper *et al.* 2018:
+Data processing workflow and supplementary data for:
 
-Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of great crested newt (*Triturus cristatus*)
+Harper *et al.* (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of great crested newt (*Triturus cristatus*). *Ecology and Evolution*.
 
 and
 
-Abiotic and biotic determinants of great crested newt at the pondscape using environmental DNA
+Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at the pondscape using environmental DNA.
 
 
 ## Contents
