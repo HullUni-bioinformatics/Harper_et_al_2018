@@ -1,0 +1,561 @@
+LOCUS       AB196722                 661 bp    DNA     linear   PRI 16-JUN-2005
+DEFINITION  Homo sapiens mitochondrial genes for tRNA-Phe, 12S ribosomal RNA,
+            partial and complete sequence.
+ACCESSION   AB196722 REGION: 888..1548
+VERSION     AB196722.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Kobayashi,R., Kikkawa,Y., Nakata,H. and Yonekawa,H.
+  TITLE     Change of the electrophoretic behavior of mitochondrial DNA in HL60
+            cells undergoing apoptosis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 661)
+  AUTHORS   Kobayashi,R., Kikkawa,Y., Hiroyasu,N. and Yonekawa,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2004) Yoshiaki Kikkawa, The Tokyo Metropolitan
+            Institute of Medical Science, Department of Laboratory Animal
+            Science; 3-18-22, Honkomagome, Bunkyo-ku, Tokyo 113-8613, Japan
+            (E-mail:kikkawa@rinshoken.or.jp, Tel:81-3-3823-2105(ex.5436),
+            Fax:81-3-3823-2105)
+FEATURES             Location/Qualifiers
+     source          1..661
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="HL60"
+     rRNA            1..>661
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cgttccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 t
+//
+
+LOCUS       GQ863634                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 4524 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863634 REGION: 5885..6838
+VERSION     GQ863634.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="4524"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863633                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2256 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863633 REGION: 5885..6838
+VERSION     GQ863633.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2256"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863632                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2253 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863632 REGION: 5885..6838
+VERSION     GQ863632.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2253"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863631                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2250 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863631 REGION: 5885..6838
+VERSION     GQ863631.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2250"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863630                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2249 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863630 REGION: 5885..6838
+VERSION     GQ863630.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2249"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863629                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2233 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863629 REGION: 5885..6838
+VERSION     GQ863629.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2233"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863628                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 2225 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863628 REGION: 5885..6838
+VERSION     GQ863628.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2225"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863627                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 1822 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863627 REGION: 5885..6838
+VERSION     GQ863627.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1822"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
+LOCUS       GQ863626                 954 bp    DNA     linear   PRI 24-JUL-2016
+DEFINITION  Homo sapiens isolate 1599 NADH dehydrogenase subunit 4 (ND4) gene,
+            partial cds; tRNA-His, tRNA-Ser, and tRNA-Leu genes, complete
+            sequence; NADH dehydrogenase subunit 5 (ND5) and NADH dehydrogenase
+            subunit 6 (ND6) genes, complete cds; tRNA-Glu gene, complete
+            sequence; cytochrome b (CYTB) gene, complete cds; tRNA-Thr and
+            tRNA-Pro genes, control region, tRNA-Phe, 12S ribosomal RNA, and
+            tRNA-Val genes, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GQ863626 REGION: 5885..6838
+VERSION     GQ863626.1
+KEYWORDS    .
+SOURCE      mitochondrion Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Mitochondrial DNA Reveals Distinct Evolutionary Histories for
+            Jewish Populations in Yemen and Ethiopia
+  JOURNAL   Am. J. Phys. Anthropol. (2010) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 954)
+  AUTHORS   Non,A.L., Al-Meeri,A., Raaum,R.L., Sanchez,L.F. and Mulligan,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2009) Anthropology, University of Florida, CGRC
+            1376 Mowry Rd, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Homo sapiens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1599"
+                     /isolation_source="Ethiopian Jewish individual"
+                     /db_xref="taxon:9606"
+     rRNA            1..954
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aataggtttg gtcctagcct ttctattagc tcttagtaag attacacatg caagcatccc
+       61 cattccagtg agttcaccct ctaaatcacc acgatcaaaa gggacaagca tcaagcacgc
+      121 agcaatgcag ctcaaaacgc ttagcctagc cacaccccca cgggaaacag cagtgattaa
+      181 cctttagcaa taaacgaaag tttaactaag ctatactaac cccagggttg gtcaatttcg
+      241 tgccagccac cgcggtcaca cgattaaccc aagtcaatag aagccggcgt aaagagtgtt
+      301 ttagatcacc ccctccccaa taaagctaaa actcacctga gttgtaaaaa actccagttg
+      361 acacaaaata gactacgaaa gtggctttaa catatctgaa cacacaatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacct caacagttaa atcaacaaaa
+      481 ctgctcgcca gaacactacg agccacagct taaaactcaa aggacctggc ggtgcttcat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg atcaacctca ccacctcttg
+      601 ctcagcctat ataccgccat cttcagcaaa ccctgatgaa ggctacaaag taagcgcaag
+      661 tacccacgta aagacgttag gtcaaggtgt agcccatgag gtggcaagaa atgggctaca
+      721 ttttctaccc cagaaaacta cgatagccct tatgaaactt aagggtcgaa ggtggattta
+      781 gcagtaaact gagagtagag tgcttagttg aacagggccc tgaagcgcgt acacaccgcc
+      841 cgtcaccctc ctcaagtata cttcaaagga catttaacta aaacccctac gcatttatat
+      901 agaggagaca agtcgtaaca tggtaagtgt actggaaagt gcacttggac gaac
+//
+
