@@ -1,4 +1,4 @@
-# Harper_et_al_2018
+# Harper *et al.* (2018)
 
 Data processing workflow and supplementary data for:
 
