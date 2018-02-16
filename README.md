@@ -21,7 +21,7 @@ Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/
 
 R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/R%20scripts)
 
-Metdata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data/Sample_Metadata)
+Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data/Sample_Metadata)
 
 
 ## Instructions to set up dependencies for data processing and analyses
