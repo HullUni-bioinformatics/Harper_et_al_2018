@@ -13,7 +13,7 @@ Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at 
 
 Notebooks to create curated reference databases used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
 
-Notebooks to download raw Illumina data from Sequence Read Archive (SRA) and run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/)
+Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/)
 
 SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
 
@@ -61,7 +61,7 @@ Raw illumina data has been deposited on the NCBI SRA:
 - BioSample accessions: SAMN08011589 - SAMN08012288
 - SRA accessions: SRR6285413 - SRR6285678
 
-The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/How_to_download_from_SRA.ipynb).
+The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/raw_reads/How_to_download_from_SRA.ipynb).
 
 With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebooks](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter%20notebooks).
 
