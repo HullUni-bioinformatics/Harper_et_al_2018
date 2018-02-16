@@ -6,7 +6,7 @@ Harper *et al.* (2018) Needle in a haystack? A comparison of eDNA metabarcoding 
 
 and
 
-Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at the pondscape using environmental DNA.
+Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at the pondscape using environmental DNA. In preparation for submission to journal.
 
 
 ## Contents
@@ -24,7 +24,7 @@ Data inputs needed to run analyses in R [(here)](https://github.com/HullUni-bioi
 
 ## Instructions to set up dependencies for data processing and analyses
 
-To facilitate full reproducibility of our analyses, we provide Jupyter notebooks illustrating our workflow and all necessary supplementary data in this repository.
+To facilitate full reproducibility of our analyses, we provide Jupyter notebooks illustrating our workflow and all necessary associated data in this repository.
 
 Illumina data was processed (from raw reads to taxonomic assignment) using the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline. The pipeline relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
 
@@ -37,19 +37,19 @@ In order to retrieve scripts and associated data (reference sequences, sample me
 git clone --recursive https://github.com/HullUni-bioinformatics/Harper_et_al_2018.git
 ```
 
-In order to make use of our self contained analysis environment, you will have to install Docker on your computer. Docker is compatible with all major operating systems. See the Docker documenation for details. On Ubuntu installing Docker should be as easy as:
+In order to make use of our self contained analysis environment, you will have to install Docker on your computer. Docker is compatible with all major operating systems, but see the Docker documentation for details. On Ubuntu, installing Docker should be as easy as:
 
 ```
 sudo apt-get install docker.io
 ```
 
-Once Docker is installed you can enter the environment by typing:
+Once Docker is installed, you can enter the environment by typing:
 
 ```
 sudo docker run -i -t --net=host --name metaBEAT -v $(pwd):/home/working chrishah/metabeat /bin/bash
 ```
 
-This will download the metaBEAT image (if it's not yet present on your computer) and enter the 'container' i.e. the self contained environment (NB: sudo may be necessary in some cases). With the above command the container's directory /home/working will be mounted to your current working directory (as instructed by $(pwd)). In other words, anything you do in the container's /home/working directory will be synced with your current working directory on your local machine.
+This will download the metaBEAT image (if not yet present on your computer) and enter the 'container' i.e. the self contained environment (**NB:** ```sudo``` may be necessary in some cases). With the above command, the container's directory ```/home/working``` will be mounted to your current working directory (as instructed by ```$(pwd)```). In other words, anything you do in the container's ```/home/working``` directory will be synced with your current working directory on your local machine.
 
 
 ## Data processing workflow as Jupyter notebooks
@@ -58,4 +58,4 @@ Raw illumina data has been deposited on the NCBI SRA (BioProject: ...; BioSample
 
 With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the Jupyter notebooks.
 
-The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory raw_reads at the base of the repository structure and that the files are named according to the following convention: 'sampleID-marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. sampleID must corresponds to the first column in the file Sample_accessions.tsv here.
+The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID-marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. sampleID must corresponds to the first column in the file Sample_accessions.tsv here.
