@@ -32,7 +32,7 @@ Illumina data was processed (from raw reads to taxonomic assignment) using the [
 
 ## Setting up the environment
 
-In order to retrieve supplementary data (reference sequences etc.), start by cloning this repository to your current directory:
+In order to retrieve scripts and associated data (reference sequences, sample metadata etc.), start by cloning this repository to your current directory:
 
 git clone --recursive https://github.com/HullUni-bioinformatics/Harper_et_al_2018.git
 
