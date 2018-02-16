@@ -11,7 +11,7 @@ Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at 
 
 ## Contents
 
-Notebooks to create curated reference databases used in analyses (databases also available in Genbank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
+Notebooks to create curated reference databases used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
 
 Notebooks used to download raw Illumina data from Sequence Read Archive (SRA) and run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/)
 
