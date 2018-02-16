@@ -15,7 +15,7 @@ Notebooks to create curated reference databases used in analyses (databases also
 
 Notebooks used to download raw Illumina data from Sequence Read Archive (SRA) and run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/)
 
-Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
+SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
 
 Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data)
 
