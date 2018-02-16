@@ -13,7 +13,7 @@ Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at 
 
 Notebooks to create curated reference databases used in analyses (databases also available in Genbank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
 
-SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
+Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
 
 Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data)
 
@@ -54,7 +54,12 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 
 ## Data processing workflow as Jupyter notebooks
 
-Raw illumina data has been deposited on the NCBI SRA (BioProject: ...; BioSample accession: ...; Sequence Read Archive accessions: ...). The sample specific accessions can be found here. Before following the workflow for data processing, you'll need to download the raw reads from SRA. To download the raw read data you can follow the steps in this Jupyter notebook.
+Raw illumina data has been deposited on the NCBI SRA:
+- BioProject: PRJNA417951
+- BioSample accession: SAMN08011589 - SAMN08012288
+- SRA accessions: SRR6285413 - SRR6285678
+
+The sample specific accessions can be found here. Before following the workflow for data processing, you'll need to download the raw reads from SRA. To download the raw read data you can follow the steps in this Jupyter notebook.
 
 With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the Jupyter notebooks.
 
