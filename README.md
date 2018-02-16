@@ -13,7 +13,7 @@ Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at 
 
 Notebooks to create curated reference databases used in analyses (databases also available in Genbank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference%20databases)
 
-SRA accession numbers for raw Illumina data (here)
+SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data)
 
 Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Data)
 
