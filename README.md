@@ -26,7 +26,7 @@ Data inputs needed to run analyses in R [(here)](https://github.com/HullUni-bioi
 
 To facilitate full reproducibility of our analyses, we provide Jupyter notebooks illustrating our workflow and all necessary supplementary data in this repository.
 
-Illumina data was processed (from raw reads to taxonomic assignment) using the metaBEAT pipeline. The pipeline relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies here.
+Illumina data was processed (from raw reads to taxonomic assignment) using the metaBEAT pipeline. The pipeline relies on a range of open bioinformatics tools, which we have wrapped up in a self contained docker image which includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
 
 
 
