@@ -6,7 +6,7 @@ Harper *et al.* (2018) Needle in a haystack? A comparison of eDNA metabarcoding 
 
 and
 
-Harper *et al.* (2018) Abiotic and biotic determinants of great crested newt at the pondscape using environmental DNA. In preparation for submission to journal.
+Harper *et al.* (2018) Understanding biodiversity at the pondscape using environmental DNA: a focus on great crested newt. In preparation for submission to journal.
 
 
 ## Contents
