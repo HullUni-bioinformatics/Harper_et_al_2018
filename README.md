@@ -13,7 +13,7 @@ Harper *et al.* (2018) Understanding biodiversity at the pondscape using environ
 
 Notebooks to create curated reference database used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference_database)
 
-Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Jupyter%20notebooks/)
+Notebooks to run metaBEAT pipeline [(here)]https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter_notebooks
 
 SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
 
@@ -63,6 +63,6 @@ Raw illumina data has been deposited on the NCBI SRA:
 
 The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/raw_reads/How_to_download_from_SRA.ipynb).
 
-With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebooks](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter%20notebooks).
+With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebooks](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter_notebooks).
 
 The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID-marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv).
