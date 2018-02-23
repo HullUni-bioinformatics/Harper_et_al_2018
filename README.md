@@ -13,7 +13,7 @@ Harper *et al.* (2018) Understanding biodiversity at the pondscape using environ
 
 Notebooks to create curated reference database used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Reference_database)
 
-Notebooks to run metaBEAT pipeline [(here)]https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter_notebooks
+Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/tree/master/Jupyter_notebooks)
 
 SRA accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018/blob/master/Data/Sample_accessions.tsv)
 
