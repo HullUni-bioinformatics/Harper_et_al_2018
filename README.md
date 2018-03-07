@@ -7,7 +7,7 @@ Permanently archived at: [![DOI](https://zenodo.org/badge/118461292.svg)](https:
 
 and
 
-Harper *et al.* (2018) Understanding biodiversity at the pondscape using environmental DNA: a focus on great crested newt. In preparation for submission to journal. Permanently archived at: [![DOI](https://zenodo.org/badge/118461292.svg)](https://zenodo.org/badge/latestdoi/118461292) v2.0
+Harper *et al.* (2018) Understanding biodiversity at the pondscape using environmental DNA: a focus on great crested newt. In preparation for submission to journal. Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1193609.svg)](https://doi.org/10.5281/zenodo.1193609) v2.0
 
 
 ## Contents
