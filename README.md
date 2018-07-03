@@ -7,7 +7,7 @@ Permanently archived at: [![DOI](https://zenodo.org/badge/118461292.svg)](https:
 
 and
 
-Harper *et al.* (2018) Ground-truthing environmental DNA (eDNA) metabarcoding for ecological hypothesis testing at the pondscape. In preparation for submission to journal.
+Harper *et al.* (2018) Ground-truthing environmental DNA (eDNA) metabarcoding for ecological hypothesis testing at the pondscape. In preparation for submission to journal. Permanently archived at: [![DOI](https://zenodo.org/badge/118461292.svg)](https://zenodo.org/badge/latestdoi/118461292) v3.0
 
 
 ## Contents
