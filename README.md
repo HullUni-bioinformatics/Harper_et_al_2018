@@ -2,9 +2,9 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (*Triturus cristatus*). *Ecology and Evolution*, --8--, 6330-6341. https://doi.org/10.1002/ece3.4013
+Harper *et al.* (2018) Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (*Triturus cristatus*). *Ecology and Evolution*, _8_, 6330-6341. https://doi.org/10.1002/ece3.4013
 
-Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1188710.svg)](https://doi.org/10.5281/zenodo.1188710) v1.0
+Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1188710.svg)](https://doi.org/10.5281/zenodo.1188710)
 
 
 ## Contents
